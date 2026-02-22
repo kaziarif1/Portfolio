@@ -27,6 +27,13 @@
 
 ---
 
+src/
+├── assets/             # Logos, Images, and Tech icons
+├── components/         # Reusable UI components (Hero, Skills, About, etc.)
+├── constants/          # Data objects for easy content management
+└── App.js              # Main application entry point
+
+
 ## ⚡️ Features
 
 * 🌑 **Light/Dark Mode Toggle**
