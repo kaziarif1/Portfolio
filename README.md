@@ -15,6 +15,8 @@
   <br />
 </div>
 
+Live Demo : https://portfolio-theta-five-649r0lulec.vercel.app/
+
 ## ⚙️ Tech Stack
 
 * **React** – Component-based UI development
@@ -75,8 +77,5 @@ npm run dev
 ```
 
 Your app will be available at: [http://localhost:5173](http://localhost:5173)
-
----
-
-
-Your live website will be hosted on a custom subdomain (e.g. `https://your-name.vercel.app`)
+### About Me 
+I am Kazi Abu Jafor Arif , a BSc in CSE student from Metropolitan University , Sylhet.
