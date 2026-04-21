@@ -75,7 +75,6 @@ cd react-tailwind-portfolio
 npm install
 npm run dev
 ```
-
-Your app will be available at: [http://localhost:5173](http://localhost:5173)
+Available at: [http://localhost:5173](http://localhost:5173)
 ### About Me 
 I am Kazi Abu Jafor Arif , a BSc in CSE student from Metropolitan University , Sylhet.
