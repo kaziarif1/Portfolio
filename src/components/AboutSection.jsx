@@ -11,11 +11,11 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-3xl font-semibold">
-              Web Developer & Competitve Programmer
+              Software Engineer &amp; SDET
             </h3>
 
             <p className="text-muted-foreground">
-              Computer Science and Engineering undergraduate at Metropolitan University, Bangladesh, with a strong interest in web development and problem solving. Passionate about building responsive, user-friendly web applications using modern technologies while continuously improving programming and algorithmic skills through competitive programming and real-world projects.
+              Computer Science and Engineering graduate from Metropolitan University, Sylhet, with project experience in software quality assurance and web application development. I have worked with Postman, Playwright, k6, PHP, and MySQL, completed Full Stack SQA and Software Test Automation training through Road to SDET, and participated in the 2023 ICPC Asia Dhaka Regional Site Online Preliminary Contest.
             </p>
 
 
@@ -48,8 +48,8 @@ export const AboutSection = () => {
                   </h4>
                   <p className="text-muted-foreground">
                     BSc in Computer Science & Engineering <br />
-                    CGPA: 3.70 / 4.00 (Running) <br />
-                    January 2023 - December 2026
+                    CGPA: 3.61 / 4.00 <br />
+                    Graduated 2026
                   </p>
                 </div>
               </div>
@@ -63,12 +63,12 @@ export const AboutSection = () => {
                 </div>
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">
-                    Scholarshome College, Sylhet
+                    Scholarshome Shahi Eidgah College, Sylhet
                   </h4>
                   <p className="text-muted-foreground">
                     Higher Secondary Certificate (HSC)<br />
                     GPA: 5 / 5.00 (Science) <br />
-                    July 2018 - March 2020
+                    Completed 2020
                   </p>
                 </div>
               </div>

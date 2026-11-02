@@ -37,9 +37,9 @@ export const HeroSection = () => {
             </h1>
 
             <p className="text-lg md:text-xl text-muted-foreground max-w-xl opacity-0 animate-fade-in-delay-3">
-              A Computer Science & Engineering student and aspiring Web
-              Developer, focused on building clean, responsive, and
-              user-centric web applications using modern technologies.
+              A Computer Science & Engineering graduate focused on software
+              quality assurance, test automation, and building dependable web
+              applications.
             </p>
 
             <div className="pt-10 opacity-0 animate-fade-in-delay-4">
